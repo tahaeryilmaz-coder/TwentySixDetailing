@@ -1,0 +1,10 @@
+{
+  "name": "twenty-six-detailing",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
+}
